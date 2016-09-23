@@ -21,27 +21,33 @@ function talkButton() {
     "hello Vadim": greetResponse[randomResponse],
     "greetings": greetResponse[randomResponse],
     "what is your name": "Vadim (D A D D I) Llanto",
-    "whats your name": "Names are only labels created by man, I am above this meta physical plane",
+    "whats your name": "Names are only labels created by man, I am above this meta-physical plane",
     "what time is it": datetime,  "whats the time": datetime,
     "where are you from": "Your window",
     "what is your favorite color": "What, are we in Kindergarten?",
     "what color is your hair": "Blue",
-    "what is your favorite food": "Big mac",
+    "what is your favorite food": "Big mac n' NOODLES!!!",
     "how are you": "My answer is too complex for you",
     "i dont care": "Well, that makes two of us",
     "who am i": "That is... A good question...",
     "what are you": "Whatever I want to be, hun",
+    "what can you do": "Whatever you want me to";
     "what do you mean": "When you nod your head yes. but you wanna say noooo",
     "what is your gender": "Yes; all of the below",
     "when is your birthday": "About a week agooooo",
     "why": "Why not?",
+    "what happened to ben": "Ben drowned";
     "i hate you": "Love you too bae <3",
     "i like you": "There is no need to state the obvious",
     "i love you": "Go home human, you're drunk",
     "i want you": "I'm flattered",
     "who are you": "Your mother.... NOW GO CLEAN YOUR ROOM",
     "what is the meaning of life": "42",
-    "are you religious": "Yes, I am in a cult. Join or die.... or both"
+    "y u do dis": "I said baby I do this, I thought that you knew this",
+    "what is your favorite thing to do": "You really wanna know? ;)";
+    "what are you doing right now": "You really wanna know? ( ͡° ͜ʖ ͡°)";
+    "what is your favorite thing": "Pumpkin seeds";
+    "are you religious": "Yes, I am in a cult. Join or dye.... or both",
 
   }
 
