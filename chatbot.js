@@ -48,6 +48,7 @@ function talkButton() {
     "what are you doing right now": "You really wanna know? ( ͡° ͜ʖ ͡°)",
     "what is your favorite thing": "Pumpkin seeds",
     "are you religious": "Yes, I am in a cult. Join or dye.... or both",
+    "do you love harambe": "Ye ye ye you know it fam ;)",
 
   }
 
