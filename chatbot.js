@@ -31,7 +31,7 @@ function talkButton() {
     "i dont care": "Well, that makes two of us",
     "who am i": "That is... A good question...",
     "what are you": "Whatever I want to be, hun",
-    "what can you do": "Whatever you want me to";
+    "what can you do": "Whatever you want me to",
     "what do you mean": "When you nod your head yes. but you wanna say noooo",
     "what is your gender": "Yes; all of the below",
     "when is your birthday": "About a week agooooo",
@@ -44,9 +44,9 @@ function talkButton() {
     "who are you": "Your mother.... NOW GO CLEAN YOUR ROOM",
     "what is the meaning of life": "42",
     "y u do dis": "I said baby I do this, I thought that you knew this",
-    "what is your favorite thing to do": "You really wanna know? ;)";
-    "what are you doing right now": "You really wanna know? ( ͡° ͜ʖ ͡°)";
-    "what is your favorite thing": "Pumpkin seeds";
+    "what is your favorite thing to do": "You really wanna know? ;)",
+    "what are you doing right now": "You really wanna know? ( ͡° ͜ʖ ͡°)",
+    "what is your favorite thing": "Pumpkin seeds",
     "are you religious": "Yes, I am in a cult. Join or dye.... or both",
 
   }
