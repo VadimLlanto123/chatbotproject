@@ -44,7 +44,7 @@ function talkButton() {
 
   }
 
-  var nonsense = ["No thanks I'm not interested", "K den weirdo", "Wowowowowowow", "yeahhhhh... whatever that means","R O O D", "Give it up", "Y u do dis?", "Ugh... Mortals", "Probably", "Not up for discussion", "Lose it", "...", "Cosa vol dire", "You sicken me", "whatever you say, bawss","I knew I should have gone to Mars"]
+  var nonsense = ["No thanks I'm not interested", "K den weirdo", "Wowowowowowow", "yeahhhhh... whatever that means","R O O D", "Give it up", "Y u do dis?", "Ugh... Mortals", "Probably", "Not up for discussion", "Lose it", "...", "Cosa vol dire", "You sicken me", "whatever you say, bawss", "I knew I should have gone to Mars"]
   var random = Math.floor(Math.random() * 13) + 0;
 
   //document.getElementById('chat-area').textContent = document.getElementById('input').value;
