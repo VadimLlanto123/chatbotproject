@@ -36,7 +36,7 @@ function talkButton() {
     "what is your gender": "Yes; all of the below",
     "when is your birthday": "About a week agooooo",
     "why": "Why not?",
-    "what happened to ben": "Ben drowned";
+    "what happened to ben": "Ben drowned",
     "i hate you": "Love you too bae <3",
     "i like you": "There is no need to state the obvious",
     "i love you": "Go home human, you're drunk",
