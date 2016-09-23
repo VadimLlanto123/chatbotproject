@@ -12,8 +12,8 @@ function talkButton() {
   }
   var datetime = "It is currently " + hours + ":" + currentdate.getMinutes();
   var response = {
-    "how old are you": "legal age",
-    "how old are you?": "legal age",
+    "how old are you": "Legal age",
+    "how old are you?": "Legal age",
     "hey": greetResponse[randomResponse],
     "hello": greetResponse[randomResponse],
     "hi": greetResponse[randomResponse],
@@ -24,7 +24,7 @@ function talkButton() {
     "whats your name": "Names are only labels created by man, I am above this meta physical plane",
     "what time is it": datetime,  "whats the time": datetime,
     "where are you from": "Your window",
-    "what is your favorite color": "What are we in Kindergarten?",
+    "what is your favorite color": "What, are we in Kindergarten?",
     "what color is your hair": "Blue",
     "what is your favorite food": "Big mac",
     "how are you": "My answer is too complex for you",
@@ -41,10 +41,11 @@ function talkButton() {
     "i want you": "I'm flattered",
     "who are you": "Your mother.... NOW GO CLEAN YOUR ROOM",
     "what is the meaning of life": "42",
+    "are you religious": "Yes, I am in a cult. Join or die.... or both"
 
   }
 
-  var nonsense = ["No thanks I'm not interested", "K den weirdo", "Wowowowowowow", "yeahhhhh... whatever that means","R O O D", "Give it up", "Y u do dis?", "Ugh... Mortals", "Probably", "Not up for discussion", "Lose it", "...", "Cosa vol dire", "You sicken me", "whatever you say, bawss", "I knew I should have gone to Mars"]
+  var nonsense = ["No thanks I'm not interested", "K den weirdo", "Wowowowowowow", "yeahhhhh... whatever that means","R O O D", "Give it up", "Y u do dis?", "Ugh... Mortals", "Probably", "This ain't a court room. I don't have to answer that", "Not up for discussion", "Lose it", "...", "Cosa vol dire", "You sicken me", "whatever you say, bawss", "I knew I should have gone to Mars"]
   var random = Math.floor(Math.random() * 13) + 0;
 
   //document.getElementById('chat-area').textContent = document.getElementById('input').value;
