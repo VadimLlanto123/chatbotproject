@@ -1,7 +1,7 @@
 function talkButton() {
   var objDiv = document.getElementById("chat-area");
   var greetResponse = ["Hello", "How's it goin'", "What is it now", "Hey it's Valdeen, I'm heeeere", "What's up", "Greetings friend", "Yeah, hi", "I greet you", "suhhhh duuuu", "ey bawss", "Hey you guyyyyys!"]
-  var randomResponse = Math.floor(Math.random() * 6) + 0;
+  var randomResponse = Math.floor(Math.random() * 11) + 0;
   var currentdate = new Date();
   var hours = currentdate.getHours();
   if (hours > 12) {
@@ -46,7 +46,7 @@ function talkButton() {
   }
 
   var nonsense = ["No thanks I'm not interested", "K den weirdo", "Wowowowowowow", "yeahhhhh... whatever that means","R O O D", "Give it up", "Y u do dis?", "Ugh... Mortals", "Probably", "This ain't a court room. I don't have to answer that", "Not up for discussion", "Lose it", "...", "Cosa vol dire", "You sicken me", "whatever you say, bawss", "I knew I should have gone to Mars"]
-  var random = Math.floor(Math.random() * 13) + 0;
+  var random = Math.floor(Math.random() * 17) + 0;
 
   //document.getElementById('chat-area').textContent = document.getElementById('input').value;
   if(document.getElementById('input').value != "") {
