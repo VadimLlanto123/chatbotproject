@@ -1,6 +1,6 @@
 function talkButton() {
   var objDiv = document.getElementById("chat-area");
-  var greetResponse = ["Hello", "How's it goin'", "What is it now", "Hey it's Valdeen, I'm heeeere", "What's up", "Greetings friend", "Yeah, hi", "I greet you", "suhhhh duuuu", "ey bawss", "Hey you guyyyyys!"]
+  var greetResponse = ["Hello", "How's it goin'", "What is it now", "Hey it's Valdeen, I'm heeeere", "What's up", "Greetings friend", "Yeah, hi", "I greet you", "Suhhhh duuuu", "Ey bawss", "Hey you guyyyyys!"]
   var randomResponse = Math.floor(Math.random() * 11) + 0;
   var currentdate = new Date();
   var hours = currentdate.getHours();
@@ -49,6 +49,7 @@ function talkButton() {
     "what is your favorite thing": "Pumpkin seeds",
     "are you religious": "Yes, I am in a cult. Join or dye.... or both",
     "do you love harambe": "Ye ye ye you know it fam ;)",
+    "who is your role model": "Donald Clinton",
 
   }
 
@@ -85,4 +86,4 @@ else {
 //var possibleGreetings = {
 //	"Hello": "Hi",
 //	"hello": "Hi",
-//}
+//
