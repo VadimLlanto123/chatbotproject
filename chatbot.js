@@ -50,6 +50,7 @@ function talkButton() {
     "are you religious": "Yes, I am in a cult. Join or dye.... or both",
     "do you love harambe": "Ye ye ye you know it fam ;)",
     "who is your role model": "Donald Clinton",
+    "are you human": "Sometimes... I don't even know",
 
   }
 
