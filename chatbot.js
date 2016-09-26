@@ -51,6 +51,7 @@ function talkButton() {
     "do you love harambe": "Ye ye ye you know it fam ;)",
     "who is your role model": "Donald Clinton",
     "are you human": "Sometimes... I don't even know",
+    "tell me your life story": "Good effort",
 
   }
 
