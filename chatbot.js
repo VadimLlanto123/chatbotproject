@@ -52,6 +52,7 @@ function talkButton() {
     "who is your role model": "Donald Clinton",
     "are you human": "Sometimes... I don't even know",
     "tell me your life story": "Good effort",
+    "good talk": "Good effort",
 
   }
 
